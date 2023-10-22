@@ -3,7 +3,7 @@ Handheld Sky Quality Meter with GPS and SDCard data storage. This is a byproduct
 
 # Status
 
-This is still under development. Most of the code base comes from my weather station but additional code needs to be written (SDcard, data retrieval, operation modes, ...). I will upload the code when it is good enough.
+This is still under development. Most of the code base comes from my weather station but additional code needs to be written (SDcard, data retrieval, operation modes, ...). 
 I am also still looking for the right housing to accomodate all the parts, so the hw layout is not done yet. Protoyping on breadboard is done, though.
 
 A first set of features work:
